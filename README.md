@@ -3,6 +3,8 @@ Please explain the steps you think are necessary to perform to get a feature don
 
 Makee a PR with your submission to this repository.
 
+-------------------------------------------------------------------
+
 To complete a feature, following agile values and principles, a number of steps are required:
 
 # Design sprint 
@@ -16,7 +18,7 @@ Tasks for each feature/user story are outlined and lo-fis drawn up by the develo
 
 These features would then be added to the icebox. 
 
-Implementation:
+# Implementation:
 1. The latest code from the central code base should be pull down to the pair programmers’ local drives who will be working on a desired feature and they branch out.
 2. A test is written and just enough implementation code written to pass the test. This is then repeated until the feature is fully implemented and tests written to cover the ‘sad’ path.
 3. A pull request in then made into the central code base, ensuring continuous integration checks pass. The pull request is then reviewed by the other team members/supervisor and any comments addressed. Once approved the code is merged into the central code base.
